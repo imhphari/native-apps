@@ -1,8 +1,9 @@
 import React from 'react';
-import {Text,AppRegistry} from 'react-native';
-
+import {AppRegistry} from 'react-native';
+import Header from './src/components/header';
+import Login from './src/components/login';
 const App=()=>(
-    <Text>Some Text</Text>
+    <Login />
 );
 
-AppRegistry.registerComponent('nativeapps',()=>App);
+AppRegistry.registerComponent('nativeapp',()=>App);

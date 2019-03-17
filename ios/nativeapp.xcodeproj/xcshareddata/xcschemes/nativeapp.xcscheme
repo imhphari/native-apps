@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "nativeapps.app"
-               BlueprintName = "nativeapps"
-               ReferencedContainer = "container:nativeapps.xcodeproj">
+               BuildableName = "nativeapp.app"
+               BlueprintName = "nativeapp"
+               ReferencedContainer = "container:nativeapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "nativeappsTests.xctest"
-               BlueprintName = "nativeappsTests"
-               ReferencedContainer = "container:nativeapps.xcodeproj">
+               BuildableName = "nativeappTests.xctest"
+               BlueprintName = "nativeappTests"
+               ReferencedContainer = "container:nativeapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "nativeappsTests.xctest"
-               BlueprintName = "nativeappsTests"
-               ReferencedContainer = "container:nativeapps.xcodeproj">
+               BuildableName = "nativeappTests.xctest"
+               BlueprintName = "nativeappTests"
+               ReferencedContainer = "container:nativeapp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "nativeapps.app"
-            BlueprintName = "nativeapps"
-            ReferencedContainer = "container:nativeapps.xcodeproj">
+            BuildableName = "nativeapp.app"
+            BlueprintName = "nativeapp"
+            ReferencedContainer = "container:nativeapp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "nativeapps.app"
-            BlueprintName = "nativeapps"
-            ReferencedContainer = "container:nativeapps.xcodeproj">
+            BuildableName = "nativeapp.app"
+            BlueprintName = "nativeapp"
+            ReferencedContainer = "container:nativeapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "nativeapps.app"
-            BlueprintName = "nativeapps"
-            ReferencedContainer = "container:nativeapps.xcodeproj">
+            BuildableName = "nativeapp.app"
+            BlueprintName = "nativeapp"
+            ReferencedContainer = "container:nativeapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
